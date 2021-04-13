@@ -52,8 +52,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
-![](https://raw.githubusercontent.com/enmanuel/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/enmanuel/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/enmanuel97/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/enmanuel97/github-stats-transparent/output/generated/languages.svg)
 
 ## 🖤 Get in touch: 
 * ✨ Twitter: https://twitter.com/MajoLedes
