@@ -1,16 +1,8 @@
 # Hi! 👋🏼 soy Enmanuel. 
 
-###  Voy a ser iOS developer algún día. 
-
-💪🏼 Actualmente estoy estudiando para serlo: **Swift**.
-
-🕵 Intenté aprender diferentes lenguajes y herramientas, entre ellos: 
-* HTML
-* CSS
-* JavaScript
-* Python
-* Framer / Adobe XD
-* Swift
+* Full Stack Web Developer👨‍💻
+* Mobile Developer📱
+* Angular + NestJS❤️
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
