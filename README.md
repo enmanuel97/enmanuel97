@@ -1,7 +1,3 @@
-
-
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
-
 # Hi! 👋🏼 soy Majo. 
 
 ###  Voy a ser iOS developer algún día. 
@@ -24,14 +20,8 @@
 
 👩🏻 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf, dibujar en CSS y leer.
 
-
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
-
-
-
-![Majo's GitHub stats](https://github-readme-stats.vercel.app/api?username=majoledesma&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majoledesma&layout=compact&theme=buefy)](https://github.com/majoledesma/github-readme-stats)
-
-
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
 
 ![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
 
@@ -40,10 +30,3 @@
 * ✨ Twitter: https://twitter.com/MajoLedes
 * ✨ Instagram: https://instagram.com/majoledes
 * ✨ CodePen: https://codepen.io/majoledesma
-
-
-![10](https://user-images.githubusercontent.com/55170175/114474409-87dd6800-9bcc-11eb-9ca0-538bd30ae29b.png)
-
-
-<!--
-**majoledesma/majoledesma** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
