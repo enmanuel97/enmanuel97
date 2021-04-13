@@ -33,7 +33,9 @@
 </p>
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=enmanuel97&amp;show_icons=true" alt="GitHub Stats"></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enmanuel97&hide=TeX&layout=compact)
 
 ## Get in touch: 
 * ✨ Twitter: https://twitter.com/edelacruz97
