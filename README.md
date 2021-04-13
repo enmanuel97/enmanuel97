@@ -2,7 +2,6 @@
 
 ###  Voy a ser iOS developer algún día. 
 
-
 💪🏼 Actualmente estoy estudiando para serlo: **Swift**.
 
 🕵 Intenté aprender diferentes lenguajes y herramientas, entre ellos: 
@@ -12,13 +11,6 @@
 * Python
 * Framer / Adobe XD
 * Swift
-
-💖 Además, realizo **apuntes a mano** sobre algunas tecnologías que estuve aprendiendo.
- Los comparto en [Los Apuntes de Majo](http://losapuntesdemajo.now.sh). 
- 
-🌸 Me gusta el diseño en general y trato de incorporarlo de alguna manera en todo lo que hago.
-
-👩🏻 Entre mis hobbies se encuentran: pintar macetas, crear playlist de Spotify, mirar torneos de surf, dibujar en CSS y leer.
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -50,10 +42,8 @@
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-![](https://raw.githubusercontent.com/enmanuel97/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/enmanuel97/github-stats-transparent/output/generated/languages.svg)
 
-## 🖤 Get in touch: 
-* ✨ Twitter: https://twitter.com/MajoLedes
-* ✨ Instagram: https://instagram.com/majoledes
-* ✨ CodePen: https://codepen.io/majoledesma
+## Get in touch: 
+* ✨ Twitter: https://twitter.com/edelacruz97
+* ✨ Instagram: https://instagram.com/edelacruz97
+* ✨ Personal Webpage: https://enmanueldelacruz.me/
