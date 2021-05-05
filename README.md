@@ -1,4 +1,4 @@
-# Hi! 👋🏼 soy Enmanuel. 
+# Hi! 👋🏼 I'm Enmanuel. 
 
 * Full Stack Web Developer👨‍💻
 * Mobile Developer📱
